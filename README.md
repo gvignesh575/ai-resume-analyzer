@@ -87,3 +87,17 @@ Clone the repository:
 git clone https://github.com/gvignesh575/ai-resume-analyzer.git
 cd ai-resume-analyzer
 ```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The app will be live at http://localhost:5173
